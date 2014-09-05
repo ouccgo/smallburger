@@ -7906,8 +7906,12 @@ strong {
 .gd-header ul {
   list-style-type: none;
   padding-left: 0;
-
 }
+
+.gd-header ul a{
+  padding-right: 40px;
+}
+
 /* line 27, ../sass/styles.scss */
 .gd-header.affix {
   top: 0;
@@ -7963,6 +7967,7 @@ strong {
 .gd-service .gd-service-item ul {
   list-style-type: none;
   margin-top: 15px;
+  padding-left: 10px;
 }
 /* line 96, ../sass/styles.scss */
 .gd-service .gd-service-item li {
