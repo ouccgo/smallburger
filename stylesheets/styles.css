@@ -7900,8 +7900,8 @@ strong {
 /* line 19, ../sass/styles.scss */
 .gd-header {
   z-index: 1;
-  font-size: 50px;
-  font-family: serif;
+  font-size: 2em;
+  height: 1;
 }
 /* line 23, ../sass/styles.scss */
 .gd-header ul {
