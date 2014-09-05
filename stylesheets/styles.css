@@ -1587,7 +1587,7 @@ h1, .h1 {
 
 /* line 48, ../../../../../../Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap/_type.scss */
 h2, .h2 {
-  font-size: 43px;
+  font-size: 40px;
 }
 
 /* line 49, ../../../../../../Ruby200-x64/lib/ruby/gems/2.0.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap/_type.scss */
@@ -7893,7 +7893,7 @@ button.close {
 }
 /* line 14, ../sass/styles.scss */
 strong {
-  font-size: 1.1em;
+  font-size: 1em;
   color: #D2691E;
 }
 
@@ -7907,6 +7907,7 @@ strong {
 .gd-header ul {
   list-style-type: none;
   padding-left: 0;
+
 }
 /* line 27, ../sass/styles.scss */
 .gd-header.affix {
